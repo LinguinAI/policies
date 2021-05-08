@@ -45,7 +45,7 @@ If you violate any of the terms, we may terminate your account.
 
 ## Uptime, Security, and Privacy
 
-1. Your use of the Service is at your sole risk. We provide the Service on an “as is” and “as available” basis. We do not offer service-level agreements for our Service — except for customers with a custom contract — but do take uptime of our applications seriously. Visit [https://linguin.statuspage.com/](https://linguin.statuspage.com/) to see the status of our Service.
+1. Your use of the Service is at your sole risk. We provide the Service on an “as is” and “as available” basis. We do not offer service-level agreements for our Service — except for customers with a custom contract — but do take uptime of our applications seriously. Visit [https://linguin.statuspage.io/](https://linguin.statuspage.io/) to see the status of our Service.
 2. We reserve the right to temporarily disable your account if your usage shows patterns of abuse (e.g. large spikes in API usage instead of bulk requests). Of course, we'll reach out to the account owner before taking any action except in rare cases where the level of use may negatively impact the performance of the Service for other customers.
 3. We take many measures to protect and secure your data through backups, redundancies, and encryption. We enforce encryption for data transmission from the public Internet. There are some edge cases where we may send your data through our network unencrypted.
 4. When you use our Service, you entrust us with your data. We take that trust to heart. You agree that we may process your data as described in our [Privacy Policy](privacy.md) and for no other purpose. We as humans can access your data for the following reasons:
